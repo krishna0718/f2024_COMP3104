@@ -4,7 +4,7 @@ run-name: $f( github.actor }} is testing out GitHub Actions
 on:
  # Triggers the workflow on push or pull request events but only for the "main" branch
  push:
-  branches: ( "main" ]
+  branches: [ "main" ]
  pull_request:
       branches: [ "main" ]
 jobs:
@@ -17,6 +17,6 @@ jobs:
         uses: actions/ setup-node@v3
         with:
           node-version: '20.x'
-        #  - run: npm ci
+#  - run: npm ci
       - run: npm run build -lf-present
       - run: npm test
