@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/krishna0718/f2024_COMP3104.git/static/css/main.27ca76a1.css",
+    "main.js": "/krishna0718/f2024_COMP3104.git/static/js/main.0916a60b.js",
+    "static/js/453.54e82f9a.chunk.js": "/krishna0718/f2024_COMP3104.git/static/js/453.54e82f9a.chunk.js",
+    "index.html": "/krishna0718/f2024_COMP3104.git/index.html",
+    "main.27ca76a1.css.map": "/krishna0718/f2024_COMP3104.git/static/css/main.27ca76a1.css.map",
+    "main.0916a60b.js.map": "/krishna0718/f2024_COMP3104.git/static/js/main.0916a60b.js.map",
+    "453.54e82f9a.chunk.js.map": "/krishna0718/f2024_COMP3104.git/static/js/453.54e82f9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.0916a60b.js"
+  ]
+}
